@@ -1,0 +1,10 @@
+{
+  "current_version": "1.0.0",
+  "next_version": "1.0.1",
+  "next_version_download_url_win": "https://jimhuang87.github.io/qnote_release/win/1.0.1.7z",
+  "next_version_download_url_mac": "https://jimhuang87.github.io/qnote_release/mac/1.0.1.7z",
+  "next_version_download_url_other": "https://jimhuang87.github.io/qnote_release/linux/1.0.1.7z",
+  "upgrade_prg_win": "upgrade.bat",
+  "upgrade_prg_mac": "upgrade.sh",
+  "upgrade_prg_other": "upgrade.sh"
+}
